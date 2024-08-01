@@ -1,0 +1,81 @@
+h1 {
+    font-size: 90px;
+}
+
+body {
+    margin: 0%;
+}
+
+h3 {
+    font-size: 40px;
+}
+
+.orange-color {
+    color: orange;
+}
+
+.right {
+    background-image: url(side-banner\ 3.png);
+    background-repeat: no-repeat;
+}
+
+p {
+    font-size: 30px;
+}
+
+.flexible-container {
+    display: flex;
+}
+
+.experience-area {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 3%;
+    margin-top: 2%;
+    padding: 5%;
+    box-shadow: 10px 10px 40px gray;
+    border-left: 10px solid blue;
+}
+
+.link-button {
+    background-image: -moz-linear-gradient(orange tomato);
+    text-decoration: none;
+    background-color: orange;
+    color: white;
+    padding: 10px 40px;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.half-width {
+    width: 90%;
+    padding: 5%;
+    margin-left: 5;
+}
+
+.half-width img {
+    width: 80%;
+    margin: 10px;
+
+}
+
+.top {
+    background-image: url(top\ banner.png);
+    background-repeat: no-repeat;
+}
+
+#baby {
+    border-left: 7px solid red;
+    border-radius: 5px;
+}
+
+#fall-stack {
+    border-left: 7px solid blue;
+    border-radius: 5px;
+
+}
+
+footer p {
+    text-align: center;
+}
